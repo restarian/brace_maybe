@@ -1,14 +1,12 @@
-# Brace Maybe null
+# Brace Maybe
+### License information
 
 ----
 ### Document pages
-
-
 * [Synopsis](https://github.com/restarian/brace_maybe/blob/master/doc/README.md)
 
 ----
 
-------
 
 Brace maybe resides under the MIT license
 

@@ -1,8 +1,9 @@
-# Brace Maybenull
+# Brace Maybe
+### Synopsis
 
 ----
 ### Document pages
-* [Document pages](https://github.com/restarian/brace_maybe/blob/master/doc/license.md)
+* [License information](https://github.com/restarian/brace_maybe/blob/master/doc/license.md)
 
 ----
 
