@@ -4,6 +4,8 @@
 ### Document pages
 
 
+* [Synopsis](https://github.com/restarian/brace_maybe/blob/master/doc/README.md)
+
 ----
 
 ------
