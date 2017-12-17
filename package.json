@@ -8,8 +8,10 @@
     "chai": "^3.5.0",
     "mocha": "^3.5.0"
   },
-  "scripts": {
+  "optionalDependencies": {
+    "brace_navlink": "^0.2.0"
   },
+  "scripts": {},
   "keywords": [
     "mocha",
     "skip",
