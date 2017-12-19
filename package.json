@@ -1,6 +1,6 @@
 {
   "name": "brace_maybe",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This module adds stop testing functionality to the mocha unit testing framework.",
   "main": "lib/brace_maybe.js",
   "dependencies": {},
