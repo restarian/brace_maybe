@@ -1,38 +1,36 @@
 {
-  "name": "brace_maybe",
-  "version": "0.1.1",
-  "description": "This module adds stop testing functionality to the mocha unit testing framework.",
-  "main": "lib/brace_maybe.js",
+	"name": "brace_maybe",
+	"version": "0.1.2",
+	"description": "This module adds stop testing functionality to the mocha unit testing framework.",
+	"main": "lib/brace_maybe.js",
 	"devDependencies": {
 		"mocha": "^5.0.0",
 		"chai": "^4.1.2"
 	},
-  "dependencies": {},
-  "scripts": {},
-  "keywords": [
-    "mocha",
-    "skip",
-    "stop"
-  ],
-  "scripts":
-	{
+	"dependencies": {},
+	"scripts": {
 		"mocha": "test"
 	},
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/restarian/brace_maybe.git"
-  },
+	"keywords": [
+		"mocha",
+		"skip",
+		"stop"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/restarian/brace_maybe.git"
+	},
 	"author": {
 		"name": "Robert Steckroth",
 		"email": "RobertSteckroth@gmail.com"
 	},
 	"license": "MIT",
-  "maintainers": [
-    {
-      "name": "nickali",
-      "email": "robertsteckroth@gmail.com"
-    }
-  ],
+	"maintainers": [
+		{
+			"name": "nickali",
+			"email": "robertsteckroth@gmail.com"
+		}
+	],
 	"technologies": [
 		{
 			"name": "VIM",
