@@ -12,6 +12,9 @@
 
 ---
 ### Document pages
+* **Synopsis**
+* [License information](https://github.com/restarian/brace_maybe/blob/master/docs/license.md)
+* [Project specification data](https://github.com/restarian/brace_maybe/blob/master/docs/specification.md)
 
 ---
 

@@ -3,27 +3,71 @@
   "version": "0.1.1",
   "description": "This module adds stop testing functionality to the mocha unit testing framework.",
   "main": "lib/brace_maybe.js",
+	"devDependencies": {
+		"mocha": "^5.0.0",
+		"chai": "^4.1.2"
+	},
   "dependencies": {},
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^3.5.0"
-  },
   "scripts": {},
   "keywords": [
     "mocha",
     "skip",
     "stop"
   ],
+  "scripts":
+	{
+		"mocha": "test"
+	},
   "repository": {
     "type": "git",
     "url": "https://github.com/restarian/brace_maybe.git"
   },
-  "author": "Robert Steckroth",
+	"author": {
+		"name": "Robert Steckroth",
+		"email": "RobertSteckroth@gmail.com"
+	},
+	"license": "MIT",
   "maintainers": [
     {
       "name": "nickali",
       "email": "robertsteckroth@gmail.com"
     }
   ],
-  "license": "MIT"
+	"technologies": [
+		{
+			"name": "VIM",
+			"description": "As an IDE",
+			"url": "https://vim.org"
+		},
+		{
+			"name": "Windows 10",
+			"description": "For unit testing and as the base operating system",
+			"url": "https://www.microsoft.com/en-us/software-download/windows10"
+		},
+		{
+			"name": "Ubuntu on Windows",
+			"description": "As the development operating environment",
+			"url": "https://www.microsoft.com/en-us/store/p/ubuntu/9nblggh4msv6"
+		},
+		{
+			"name": "Git",
+			"description": "For repository management",
+			"url": "https://git-scm.com"
+		},
+		{
+			"name": "Github",
+			"description": "For repository storage",
+			"url": "https://github.com"
+		},
+		{
+			"name": "NPM",
+			"description": "For module storage",
+			"url": "https://npmjs.org"
+		},
+		{
+			"name": "Blender",
+			"description": "For logo design and rendering",
+			"url": "https://blender.org"
+		}
+	]
 }
