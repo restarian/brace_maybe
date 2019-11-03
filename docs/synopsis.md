@@ -12,9 +12,9 @@
 
 ---
 ### Brace Maybe help pages
-* [License](https://github.com/restarian/brace_maybe/blob/master/docs/license.md)
 * **Synopsis**
 * Specification
+  * [License information](https://github.com/restarian/brace_maybe/blob/master/docs/specification/license_information.md)
   * [Package information](https://github.com/restarian/brace_maybe/blob/master/docs/specification/package_information.md)
 
 ---

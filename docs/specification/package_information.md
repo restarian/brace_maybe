@@ -4,13 +4,13 @@
 ----
 
 ### Brace Maybe help pages
-* [License](https://github.com/restarian/brace_maybe/blob/master/docs/license.md)
 * [Synopsis](https://github.com/restarian/brace_maybe/blob/master/docs/synopsis.md)
 * Specification
+  * [License information](https://github.com/restarian/brace_maybe/blob/master/docs/specification/license_information.md)
   * **Package information**
 ----
 
-**Version**: 0.1.3
+**Version**: 0.1.4
 
 **Description**: This module adds stop testing functionality to the mocha unit testing framework.
 
