@@ -9,7 +9,9 @@
 	},
 	"dependencies": {},
 	"scripts": {
-		"mocha": "test"
+		"mocha": "test",
+		"make_docs": "brace_document -i docs_raw -b docs -r --navlink --link --link-dest README.md --link-path docs/synopsis.md --force-title --title \"Brace Maybe help pages\" --sort depth",
+		"make_docs_extra": "npm run make_docs -- --specification"
 	},
 	"keywords": [
 		"mocha",

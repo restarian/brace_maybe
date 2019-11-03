@@ -5,7 +5,7 @@
 
 Brace maybe resides under the MIT license
 
-Copyright (c) 2018 Robert Steckroth [<RobertSteckroth@gmail.com>](mailto:RobertSteckroth@gmail.com)
+Copyright (c) 2020 Robert Steckroth [<RobertSteckroth@gmail.com>](mailto:RobertSteckroth@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -27,7 +27,6 @@ SOFTWARE.
 
   Brace maybe adds the ability to selectively skip unit tests while the tests are processing.
 
-  this file is a part of Brace maybe 
+  this file is a part of Brace maybe
 
  Author: Robert Edward Steckroth II, BustOut, [<RobertSteckroth@gmail.com>](mailto:RobertSteckroth@gmail.com)
-

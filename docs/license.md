@@ -1,19 +1,18 @@
+
+---
+### Brace Maybe help pages
+* **License**
+* [Synopsis](https://github.com/restarian/brace_maybe/blob/master/docs/synopsis.md)
+* Specification
+  * [Package information](https://github.com/restarian/brace_maybe/blob/master/docs/specification/package_information.md)
 # Brace Maybe
 ### License information
 
-
----
-### Brace maybe
-* [Synopsis](https://github.com/restarian/brace_maybe/blob/master/docs/README.md)
-* **License information**
-* [Project specification data](https://github.com/restarian/brace_maybe/blob/master/docs/specification.md)
-
----
 #### All works, media and writings contained within this project are licensed under the Brace maybe license unless it is explicitly specified otherwise.
 
 Brace maybe resides under the MIT license
 
-Copyright (c) 2018 Robert Steckroth [<RobertSteckroth@gmail.com>](mailto:RobertSteckroth@gmail.com)
+Copyright (c) 2020 Robert Steckroth [<RobertSteckroth@gmail.com>](mailto:RobertSteckroth@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -35,7 +34,6 @@ SOFTWARE.
 
   Brace maybe adds the ability to selectively skip unit tests while the tests are processing.
 
-  this file is a part of Brace maybe 
+  this file is a part of Brace maybe
 
  Author: Robert Edward Steckroth II, BustOut, [<RobertSteckroth@gmail.com>](mailto:RobertSteckroth@gmail.com)
-
